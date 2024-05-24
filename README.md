@@ -7,6 +7,9 @@ This will be accomplished by:
 2. Creating a Redirect Page in Site Assets
 3. Changing the NewFormUrl, EditFormUrl, and DisplayFormUrl to the Redirect Page using PnP PowerShell
 
+## Getting Started
+
+Please refer to [this article](https://github.com/PowerPilotMark/SPListToApp/wiki) to get you started.
 
 
 ## Acknowledgements
